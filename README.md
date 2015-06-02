@@ -6,3 +6,9 @@ This is the landing page for the 3rd-party plugins for FamilySearch-GRAMPS integ
 [GRAMPS 3.4](https://github.com/elderamevans/familysearch-gramps/tree/gramps34)
 
 [Gramps 4.1](https://github.com/elderamevans/familysearch-gramps/tree/gramps41)
+
+[Gramps 4.2](https://github.com/elderamevans/familysearch-gramps/tree/gramps42)
+
+[Gramps 4.3](https://github.com/elderamevans/familysearch-gramps/tree/gramps43)
+
+[Gramps 5.0](https://github.com/elderamevans/familysearch-gramps/tree/gramps50)
