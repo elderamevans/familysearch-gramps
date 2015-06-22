@@ -2,6 +2,8 @@
 
 # Unsure of what to have imported...
 
+from familysearch import FamilySearch
+
 class FamilySearchCore(object):
     def __init__(self):
         fs = FamilySearch("Gramps/5.0", "LET'S-PUT-THAT-DEV-KEY-HERE-DOUG")

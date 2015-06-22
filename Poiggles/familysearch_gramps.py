@@ -7,7 +7,7 @@ from .familysearch_core import FamilySearchCore
 
 class FamilySearchGramps(FamilySearchCore):
     def __init__(self):
-        super().init()
+        super().__init__()
 
     def commit_new_gramps_person(self):
         pass

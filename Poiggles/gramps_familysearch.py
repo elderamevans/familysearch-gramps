@@ -5,7 +5,7 @@ from .familysearch_core import FamilySearchCore
 
 class GrampsFamilySearch(FamilySearchCore):
     def __init__(self):
-        super().init()
+        super().__init__()
         self.person_template = {"persons": []}
         self.name_template = {"names": []}
         self.nameform_template = {"nameForms": []}
