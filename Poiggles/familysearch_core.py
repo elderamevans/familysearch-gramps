@@ -6,7 +6,10 @@ from familysearch import FamilySearch
 
 class FamilySearchCore(object):
     def __init__(self):
-        fs = FamilySearch("Gramps/5.0", "LET'S-PUT-THAT-DEV-KEY-HERE-DOUG")
+        fs = FamilySearch("Gramps/5.0", "a02j0000007rW19AAE")
+        # Temporary key until we can get one with desktop login enabled.
+        self.login = fs.login
+        self.oauth_desktop_login = fs.oauth_desktop_login
 
     def login_checker(self):
         pass
